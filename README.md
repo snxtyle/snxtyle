@@ -1,7 +1,7 @@
 ![logo](https://github.com/kurai-sx/kurai-sx/blob/main/github%20banner.svg)
 <h1 align="center">Hi 👋, I'm Suraj !</h1>
 <p>
-      <h2 align="center">Google Developer Students Clubs Lead</h2>
+      <h2 align="center">Co-Founder-@PureLoop || Ex-@Google DSC Lead || Ex-@IEEE Executive Member || Ex-@GFG Technical Team Member</h2>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurai-sx&label=Profile%20views&color=0e75b6&style=flat" alt="kurai-sx" /> </p>
@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on -> [Peronalised Content Generation using Gen Ai](https://github.com/kurai-sx/Personalised-Content-Generation-using-Gen-Ai)
+- 🔭 Currently Working On: [Building a Generalised Adversal Network (GAN)](https://github.com/kurai-sx/Personalised-Content-Generation-using-Gen-Ai)
 
 - 🌱 I’m currently learning **Gen Ai**
 
