@@ -1,5 +1,5 @@
-![logo](https://github.com/kurai-sx/kurai-sx/blob/main/github%20banner.svg)
-<h1 align="center">Hi 👋, I'm Suraj !</h1>
+![logo](https://github.com/kurai-sx/kurai-sx/blob/main/LinkedIn%20Banner.jpg)
+<h1 align="center">Hi👋, it's Suraj !</h1>
 <p>
       <h2 align="center">Co-Founder-@PureLoop || Ex-@Google DSC Lead || Ex-@IEEE Executive Member || Ex-@GFG Technical Team Member</h2>
 </p>
