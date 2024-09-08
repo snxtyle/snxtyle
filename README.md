@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Currently Working On: [Building a Generalised Adversal Network (GAN)](https://github.com/kurai-sx/Personalised-Content-Generation-using-Gen-Ai)
+- 🔭 Currently Working On: [Building a Generalised Adversal Network (GAN)](https://github.com/kurai-sx/Creating-Generative-Adversarial-Network-GAN)
 
 - 🌱 I’m currently learning **Gen Ai**
 
