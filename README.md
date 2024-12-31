@@ -10,15 +10,15 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Currently Working On: [Building a Generalised Adversal Network (GAN)](https://github.com/kurai-sx/Creating-Generative-Adversarial-Network-GAN)
+- 🔭 Currently Working On: [Chill Cabs]([https://github.com/kurai-sx/Creating-Generative-Adversarial-Network-GAN](https://github.com/kurai-sx/Chill-Cabs))
 
-- 🌱 I’m currently learning **Gen Ai**
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/surajnagre](https://linktr.ee/surajnagre)
 
 - 💬 Ask me about **AI , ML**
 
-- 📫 How to reach me: **surajnagreudict@gmail.com**
+- 📫 How to reach me: **surajnagre30@gmail.com**
 
 - ⚡ Fun fact **Today is the youngest you ever will be again :)**
 
