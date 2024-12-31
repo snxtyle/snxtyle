@@ -12,7 +12,7 @@
 
 - 🔭 Currently Working On: [Chill Cabs](https://github.com/kurai-sx/Creating-Generative-Adversarial-Network-GAN](https://github.com/kurai-sx/Chill-Cabs))
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning: **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/surajnagre](https://linktr.ee/surajnagre)
 
