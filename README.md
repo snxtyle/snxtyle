@@ -27,7 +27,6 @@
 <a href="https://linkedin.com/in/surajnagre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajnagre" height="30" width="40" /></a>
 <a href="https://instagram.com/snxtyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snxtyle" height="30" width="40" /></a>
 <a href="https://x.com/Suraj_Nagre_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Suraj Nagre" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/srxtyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="srxtyle" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
