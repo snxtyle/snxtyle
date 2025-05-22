@@ -1,7 +1,7 @@
 ![logo](https://github.com/kurai-sx/kurai-sx/blob/main/LinkedIn%20Banner.jpg)
 <h1 align="center">Hi👋, it's Suraj !</h1>
 <p>
-      <h2 align="center">Intern @Donatekart | Ex Intern @NxTechWorks | Ex-@Google Lead </h2>
+      <h2 align="center">Intern @Donatekart | Ex Intern @NxTechWorks | Ex @Google Lead </h2>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurai-sx&label=Profile%20views&color=0e75b6&style=flat" alt="kurai-sx" /> </p>
