@@ -10,9 +10,9 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Currently Working On: [SQL AI Model]([https://github.com/kurai-sx/Amazon-Bedrock](https://github.com/kurai-sx/SQL-Vector-DB-Chat-Assistant))
+- 🔭 Currently Working On: [SQL AI Model Query Generation using NLP](https://github.com/kurai-sx/SQL-Vector-DB-Chat-Assistant)
 
-- 🌱 I’m currently learning: **SQL AI Model Query Generation using NLP**
+- 🌱 I’m currently learning: **Agent Cration, RAG and Vectorization**
 
 - 👨‍💻 All of my projects are available at [kurai-sx](https://github.com/kurai-sx)
 
