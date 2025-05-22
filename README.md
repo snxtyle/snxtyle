@@ -1,7 +1,7 @@
 ![logo](https://github.com/kurai-sx/kurai-sx/blob/main/LinkedIn%20Banner.jpg)
 <h1 align="center">Hi👋, it's Suraj !</h1>
 <p>
-      <h2 align="center">Ex Intern @NxTechWorks || Ex-@Google DSC Lead || Ex-@IEEE Executive Member || Ex-@GFG Technical Team Member</h2>
+      <h2 align="center">Intern @Donatekart | Ex Intern @NxTechWorks | Ex-@Google Lead </h2>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurai-sx&label=Profile%20views&color=0e75b6&style=flat" alt="kurai-sx" /> </p>
@@ -10,13 +10,13 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Currently Working On: [Amazon RAG](https://github.com/kurai-sx/Amazon-Bedrock)
+- 🔭 Currently Working On: [SQL AI Model]([https://github.com/kurai-sx/Amazon-Bedrock](https://github.com/kurai-sx/SQL-Vector-DB-Chat-Assistant))
 
-- 🌱 I’m currently learning: **Amazon Bedrock Integration for LLMs**
+- 🌱 I’m currently learning: **SQL AI Model Query Generation using NLP**
 
 - 👨‍💻 All of my projects are available at [kurai-sx](https://github.com/kurai-sx)
 
-- 💬 Ask me about **Artificial Intelligence and Machine Learning**
+- 💬 Ask me about: **Artificial Intelligence and Machine Learning**
 
 - 📫 How to reach me: **surajnagre30@gmail.com**
 
@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/surajnagre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="surajnagre" height="30" width="40" /></a>
 <a href="https://instagram.com/snxtyle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snxtyle" height="30" width="40" /></a>
-<a href="https://x.com/Suraj_Nagre_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Suraj Nagre" height="30" width="40" /></a>
+<a href="https://x.com/snxtylemen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Suraj Nagre" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
