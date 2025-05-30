@@ -1,7 +1,7 @@
 ![logo](https://github.com/kurai-sx/kurai-sx/blob/main/LinkedIn%20Banner.jpg)
 <h1 align="center">Hi👋, it's Suraj !</h1>
 <p>
-      <h2 align="center">Intern @Donatekart | Ex Intern @NxTechWorks | Ex @Google Lead </h2>
+      <h2 align="center">AI Intern @Donatekart | Ex Intern @NxTechWorks | Ex @Google Lead </h2>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kurai-sx&label=Profile%20views&color=0e75b6&style=flat" alt="kurai-sx" /> </p>
@@ -10,17 +10,17 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 Currently Working On: [SQL AI Model Query Generation using NLP](https://github.com/kurai-sx/SQL-Vector-DB-Chat-Assistant)
+- 🔭 Currently Working On: [Content Refiner Model](https://github.com/kurai-sx/Content-Refiner-Model)
 
-- 🌱 I’m currently learning: **Agent Cration, RAG and Vectorization**
+- 🌱 I’m currently learning: **Agent Creation, RAG and Vectorization**
 
-- 👨‍💻 All of my projects are available at [kurai-sx](https://github.com/kurai-sx)
+- 👨‍💻 All of my projects are available --> [kurai-sx](https://github.com/kurai-sx)
 
-- 💬 Ask me about: **Artificial Intelligence and Machine Learning**
+- 💬 Ask me about: **Artificial Intelligence and Agentic RAGs**
 
 - 📫 How to reach me: **surajnagre30@gmail.com**
 
-- ⚡ Fun fact **Today is the youngest you ever will be again :)**
+- ⚡ Fun fact **Today is the youngest you ever will be again ^^**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
