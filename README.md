@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/snxtyle" target="blank"><img src="https://img.shields.io/twitter/follow/snxtyle?logo=twitter&style=for-the-badge" alt="snxtyle" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on **Evals, Model FT and Synthetic Data Gen**
+- 🔭 I’m currently working on **Evals, Model SFT and Synthetic Data Generation**
 
 - 🌱 I’m currently learning **Machine Learning**
 
