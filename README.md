@@ -44,4 +44,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snxtyle&show_icons=true&locale=en" alt="snxtyle" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snxtyle&" alt="snxtyle" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snxtyle&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="snxtyle" /></p>
