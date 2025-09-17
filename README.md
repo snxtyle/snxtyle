@@ -1,6 +1,6 @@
 ![logo](https://github.com/snxtyle/snxtyle/blob/main/LinkedIn%20Banner.jpg)
 <h1 align="center">Hi 👋, I'm Suraj</h1>
-<h3 align="center">AI Engineer @Juspay | Ex AI @Donatekart </h3>
+<h3 align="center">AI Engineer @Juspay | Expert in SFT LLMs | Passionate AI Techie </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snxtyle&label=Profile%20views&color=0e75b6&style=flat" alt="snxtyle" /> </p>
 
